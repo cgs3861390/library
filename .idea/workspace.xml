@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="myLibrary:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ce1f229-07aa-4097-941e-7bbe60d237de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files (x86)\apache-maven-3.5.3\maven-properties" />
+        <option name="mavenHome" value="D:/Program Files (x86)/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\Program Files (x86)\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="14 (2)" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="14 (2)" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1il4Dm0kMuBTSjf7lXYVNZPmmDK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\java\com\cgs\library\controller" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\java\com\cgs\library\interceptor" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\java\com\cgs\library\listener" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\java\com\cgs\library\service" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\java\com\cgs\library\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\webapp" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\webapp\WEB-INF" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary" />
+      <recent name="F:\java最新视频资源 黑马&amp;传智 就业班视频 2017-2018年最新全套视频教程\20180605java就业视频\30-SSM分布式案例-互联网商城-阶段项目-必看(共197集）\15 本项目工具软件 汇总源码包\参考资料\参考资料\mybatis\pagehelper-fix\myLibrary\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.library">
+    <configuration name="AdminTest.listCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgs.library.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgs.library.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cgs.library.test.AdminTest" />
+      <option name="METHOD_NAME" value="listCategory" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cgs.library.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cgs.library.test" />
+      <option name="MAIN_CLASS_NAME" value="com.cgs.library.test.AdminTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="library" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8082/" />
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="myLibrary:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_myLibrary" />
+        <option name="HTTP_PORT" value="8082" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="13304" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="myLibrary:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AdminTest.test1" />
+      <item itemvalue="JUnit.AdminTest.listCategory" />
+      <item itemvalue="Tomcat Server.library" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminTest.listCategory" />
+        <item itemvalue="JUnit.AdminTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.111338794" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ce1f229-07aa-4097-941e-7bbe60d237de" name="Default Changelist" comment="" />
+      <created>1602468726423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602468726423</updated>
+      <workItem from="1602468728866" duration="5568000" />
+      <workItem from="1602474538684" duration="14535000" />
+      <workItem from="1602561134977" duration="1590000" />
+      <workItem from="1602573089498" duration="5815000" />
+      <workItem from="1602643478566" duration="1954000" />
+      <workItem from="1602747672404" duration="5948000" />
+      <workItem from="1602819257599" duration="1493000" />
+      <workItem from="1602898022072" duration="1629000" />
+      <workItem from="1602925961377" duration="1100000" />
+      <workItem from="1603001521805" duration="668000" />
+      <workItem from="1603088832747" duration="3261000" />
+      <workItem from="1603122087487" duration="124000" />
+      <workItem from="1603159352775" duration="1584000" />
+      <workItem from="1603353365472" duration="18489000" />
+      <workItem from="1603421119871" duration="8215000" />
+      <workItem from="1603938102808" duration="9287000" />
+      <workItem from="1604028893211" duration="2087000" />
+      <workItem from="1604043225352" duration="4865000" />
+      <workItem from="1604062725628" duration="34000" />
+      <workItem from="1604071298259" duration="610000" />
+      <workItem from="1604211690658" duration="8515000" />
+      <workItem from="1604283042316" duration="1807000" />
+      <workItem from="1604369406732" duration="7151000" />
+      <workItem from="1604481566773" duration="1674000" />
+      <workItem from="1604561311354" duration="1214000" />
+      <workItem from="1604627641603" duration="1216000" />
+      <workItem from="1604718907437" duration="633000" />
+      <workItem from="1604900756890" duration="1267000" />
+      <workItem from="1604975673845" duration="1223000" />
+      <workItem from="1604990102398" duration="1816000" />
+      <workItem from="1605072928575" duration="1213000" />
+      <workItem from="1606101664755" duration="2082000" />
+      <workItem from="1606104954947" duration="1632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606103162645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606103162645" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1602470702367">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602470702367" />
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603381986376">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="301" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1603381986376" />
+    <state x="548" y="271" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602491768881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="271" width="439" height="292" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1602491768881" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606102153989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606102153989" />
+    <state width="1300" height="155" key="GridCell.Tab.0.bottom" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.0.center" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.0.left" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.0.right" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.1.bottom" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.1.center" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.1.left" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.1.right" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.2.bottom" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.2.center" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.2.left" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state width="1300" height="155" key="GridCell.Tab.2.right" timestamp="1606105031223">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1300" height="155" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1606105031223" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1602472099092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1602472099092" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1604369427970">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604369427970" />
+    <state x="179" y="44" key="new project wizard" timestamp="1605072939553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="179" y="44" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605072939553" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604380660980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1604380660980" />
+  </component>
+</project>
